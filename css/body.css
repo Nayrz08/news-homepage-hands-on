@@ -9,7 +9,11 @@ main {
 
 .left__container {
     width: 100%;
+<<<<<<< HEAD
     margin-right: 1rem;
+=======
+    margin-right: 3rem;
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba
     margin-bottom: 6rem;
 }
 
@@ -37,10 +41,17 @@ main {
 }
 
 .description {
+<<<<<<< HEAD
     color: hsl(246, 13%, 42%);
     font-size: 1.6rem;
     font-family: 'Inter',sans-serif;
     line-height: 1,5;
+=======
+    color: hsl(236, 13%, 42%);
+    font-size: 1.6rem;
+    font-family: 'Inter', sans-serif;
+    line-height: 1.5;
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba
     margin-bottom: 3rem;
 }
 
@@ -48,9 +59,15 @@ main {
     text-decoration: none;
     background-color: hsl(5, 85%, 63%);
     align-items: flex-start;
+<<<<<<< HEAD
     color: hsl(36, 100%, 99%);
     text-transform: uppercase;
     font-family: 'Inter-Bold', sans-serif;
+=======
+    color:  hsl(36, 100%, 99%);
+    text-transform: uppercase;
+    font-family: 'Inter Bold', sans-serif;
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba
     padding: 1.5rem 2rem;
     letter-spacing: 5px;
     text-align: center;
@@ -64,16 +81,26 @@ main {
 }
 
 .right__container h2 {
+<<<<<<< HEAD
     font-family: 'Inter-Bold', sans-serif;
     font-size: 3rem;
     color: hsl(35, 77%, 62%);
+=======
+    font-family: 'Inter Bold', sans-serif;
+    font-size: 3rem;
+    color:  hsl(35, 77%, 62%);
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba
     margin-bottom: 2rem;
 }
 
 .right__container--sub h3 {
     font-size: 1.8rem;
     color: hsl(36, 100%, 99%);
+<<<<<<< HEAD
     font-family: 'Inter Extrabold', sans-serif;
+=======
+    font-family: 'Inter ExtraBold', sans-serif;
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba
     letter-spacing: 1px;
     margin-bottom: 1rem;
 }
@@ -101,6 +128,10 @@ main {
     .img--mobile {
         display: none;
     }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba
     .img--desktop {
         display: block;
     }
@@ -115,7 +146,11 @@ main {
     }
 
     .description {
+<<<<<<< HEAD
         margin-bottom: 4rem;
+=======
+        margin-bottom: 8rem;
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba
     }
 
     .right__container {
@@ -125,12 +160,20 @@ main {
         padding: 4rem;
     }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba
     .right__container h2 {
         font-size: 4rem;
         margin-bottom: 4rem;
     }
 
+<<<<<<< HEAD
     .right__container--sub h3 {
+=======
+    .right__container--sub h3  {
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba
         font-size: 2.2rem;
     }
 
@@ -145,4 +188,8 @@ main {
     .right__container--sub {
         margin-bottom: 4rem;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba
